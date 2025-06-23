@@ -1,4 +1,4 @@
-# Data Analysis of NETFLIX's Movies and TV Shows using SQL 
+#         Data Analysis of NETFLIX's Movies and TV Shows using SQL 
 
 ![logo](https://github.com/Venkat-D-Maddala/Netflix_SQL_Project/blob/main/Logonetflix.png)
 ## Project Overview
