@@ -33,10 +33,6 @@ CREATE TABLE netflix (
     description  VARCHAR(550)
 );
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="200" alt="Netflix Logo"/>
-</p>
-
 ## 💼 Business Problems and Solutions
 
 ### 1. Count the Number of Content Items in Each Genre
