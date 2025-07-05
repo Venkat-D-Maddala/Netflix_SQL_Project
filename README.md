@@ -13,7 +13,7 @@ Analyze titles by release year, country of origin, and duration.
 
 Categorize and explore content based on specific patterns and keyword-based conditions.
 
-## 📂 Dataset  
+##  Dataset  
 The dataset used in this project is sourced from Kaggle:  
 🔗 [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
@@ -35,7 +35,7 @@ CREATE TABLE netflix (
     description  VARCHAR(550)
 );
 ```
-## 💼 Business Problems and Solutions
+##  Business Problems and Solutions
 
 ### 1. Count the Number of Content Items in Each Genre
 
